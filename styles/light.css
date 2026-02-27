@@ -6,6 +6,7 @@
   --title-color: #ffc2e6;
   --header-color: var(--section-header-color);
   --text-color: #353430;
+  --button-hover-color: rgb(53 52 48 / 0.4);
 }
 
 :root.theme-light .header__decorative-text {
